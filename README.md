@@ -94,8 +94,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lalitha-2107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=F59E0B&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitha-2107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=lalitha-2107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=F59E0B&text_color=c9d1d9" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lalitha-2107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
@@ -202,13 +202,7 @@ A dynamic personal portfolio and blogging platform with a custom CMS, deployed o
 
 ## 🏆 Achievement Badges
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lalitha-2107&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<img src="https://github-profile-trophy-winning.vercel.app/?username=lalitha-2107&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 
 ## 📬 Let's Connect
 
