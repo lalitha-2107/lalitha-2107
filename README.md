@@ -18,10 +18,10 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/lalithadevi-pepakayala-129711246/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://lalliportofolio.ccbp.tech/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:lalithadevipepakayala2107@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/lalitha-2107"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -94,12 +94,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=F59E0B&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lalitha-2107&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=F59E0B&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitha-2107&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&langs_count=8" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitha-2107&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" />
 
 </div>
 
@@ -107,10 +107,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366F1&line=F59E0B&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lalitha-2107&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366F1&line=F59E0B&point=ffffff" width="100%" />
 
 <!-- Contribution Snake — add via GitHub Actions workflow to auto-generate -->
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation placeholder"/>
+<img src="https://raw.githubusercontent.com/lalitha-2107/lalitha-2107/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation placeholder"/>
 
 </div>
 
@@ -135,8 +135,8 @@ Full-featured e-commerce web app with product catalog, cart, secure checkout, an
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/ecommerce-platform)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com/ecommerce-demo)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lalitha-2107/ecommerce-platform)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://lalliportofolio.ccbp.tech/)
 
 </td>
 <td width="33%" valign="top">
@@ -154,8 +154,8 @@ A collaborative task and project management tool with real-time updates, drag-an
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/task-manager)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com/task-manager-demo)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lalitha-2107/task-manager)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://lalliportofolio.ccbp.tech/)
 
 </td>
 <td width="33%" valign="top">
@@ -173,8 +173,8 @@ A dynamic personal portfolio and blogging platform with a custom CMS, deployed o
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/portfolio-cms)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lalitha-2107/portfolio-cms)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://lalliportofolio.ccbp.tech/)
 
 </td>
 </tr>
@@ -204,7 +204,7 @@ A dynamic personal portfolio and blogging platform with a custom CMS, deployed o
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=lalitha-2107&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 
 </div>
 
@@ -222,7 +222,7 @@ Feel free to reach out — I'd love to collaborate, learn, and build together!
 <a href="https://github.com/lalitha-2107"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/lalithadevi-pepakayala-129711246/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://lalliportofolio.ccbp.tech/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="lalithadevipepakayala2107@gmail.commail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:lalithadevipepakayala2107@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -232,8 +232,8 @@ Feel free to reach out — I'd love to collaborate, learn, and build together!
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=6366F1&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=lalitha-2107&color=6366F1&style=flat-square&label=Profile+Views)
 
-<i>⭐️ From <a href="https://github.com/yourusername">Lalithadevi</a> — Crafted with care to build the web, one line of code at a time.</i>
+<i>⭐️ From <a href="https://github.com/lalitha-2107">Lalithadevi</a> — Crafted with care to build the web, one line of code at a time.</i>
 
 </div>
