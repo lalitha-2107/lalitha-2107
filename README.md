@@ -99,7 +99,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=lalitha-2107&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=lalitha-2107&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" />
 
 </div>
 
