@@ -1,0 +1,36 @@
+name: Generate Trophy Image
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually anytime
+
+jobs:
+  generate-trophy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: lalitha-2107
+          output_path: trophy.svg
+          theme: darkhub
+          no-frame: "true"
+          no-bg: "true"
+          margin-w: "15"
+          row: "1"
+          column: "6"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push trophy.svg
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add trophy.svg
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update trophy image"
+          git push
